@@ -11,6 +11,9 @@ h1{
 }
 h2{
     text-align: center;
-    text-decoration: underline;
     font-size: 25px;
+}
+pre{
+    text-align: center;
+    font-size: 15px;
 }
